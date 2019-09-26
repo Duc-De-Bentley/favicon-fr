@@ -24,7 +24,10 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://www.tabatoo-gps.com",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "github",
+    "gitHubName": "duc-de-bentley",
+    "gitHubPath": "favicon-fr"
   },
   "pages": {
     "index.html": {
